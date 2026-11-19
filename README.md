@@ -84,12 +84,8 @@ Computer vision for real-time posture correction; CI/CD via AWS Lambda + SageMak
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SirusnakJR1872000&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirusnakJR1872000&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
+
 
 ---
 
