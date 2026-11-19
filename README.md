@@ -56,15 +56,7 @@
 
 ## 📊 Engineering Impact
 
-| What | Result |
-|---|---:|
-| ↓ Manual verification effort (Adversarial Audit Framework) | **80%** |
-| ↓ Token consumption (Technical State Manager) | **40%** |
-| ↑ Retrieval precision (contextual query rewriting) | **35%** |
-| ↑ Model accuracy (posture correction CV pipeline) | **45%** |
-| ↓ ML deployment time (CI/CD pipelines) | **40%** |
-
----
+![Engineering Impact](./engineering_impact.svg)
 
 ## 💼 Experience
 
