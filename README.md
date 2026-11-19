@@ -143,14 +143,7 @@
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SirusnakJR1872000&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=1D9E75&icon_color=1D9E75" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirusnakJR1872000&layout=compact&theme=default&hide_border=true&title_color=1D9E75" height="150"/>
-</p>
-
----
 
 ## 🌱 Currently Building
 
