@@ -126,24 +126,29 @@
 
 ## 🎓 Education
 
-
-
 <table>
   <tr>
-    <td width="55"><img src="./iitbombay.png" height="45"/></td>
+    <td width="80"><img src="./iitbombay.png" height="70" width="70"/></td>
     <td><b>IIT Bombay</b><br/>PG in AI & Data Science · Dec 2025</td>
   </tr>
   <tr>
-    <td width="55"><img src="./uis.png" height="45"/></td>
+    <td width="80"><img src="./uis.png" height="70" width="70"/></td>
     <td><b>University of Illinois Springfield</b><br/>MS Computer Science · Dec 2023</td>
   </tr>
   <tr>
-    <td width="55"><img src="./mu.png" height="45"/></td>
+    <td width="80"><img src="./mu.png" height="70" width="70"/></td>
     <td><b>University of Mumbai</b><br/>BE Computer Science · May 2022</td>
   </tr>
 </table>
 
+---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SirusnakJR1872000&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=1D9E75&icon_color=1D9E75" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirusnakJR1872000&layout=compact&theme=default&hide_border=true&title_color=1D9E75" height="150"/>
+</p>
 
 ---
 
