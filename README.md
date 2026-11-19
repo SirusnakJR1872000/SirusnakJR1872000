@@ -126,11 +126,22 @@
 
 ## 🎓 Education
 
-- **IIT Bombay** — PG in AI & Data Science *(Dec 2025)*
-- **University of Illinois Springfield** — MS Computer Science *(Dec 2023)*
-- **University of Mumbai** — BE Computer Science *(May 2022)*
 
----
+
+<table>
+  <tr>
+    <td width="55"><img src="./iitb.png" height="45"/></td>
+    <td><b>IIT Bombay</b><br/>PG in AI & Data Science · Dec 2025</td>
+  </tr>
+  <tr>
+    <td width="55"><img src="./uis.png" height="45"/></td>
+    <td><b>University of Illinois Springfield</b><br/>MS Computer Science · Dec 2023</td>
+  </tr>
+  <tr>
+    <td width="55"><img src="./mu.png" height="45"/></td>
+    <td><b>University of Mumbai</b><br/>BE Computer Science · May 2022</td>
+  </tr>
+</table>
 
 
 
