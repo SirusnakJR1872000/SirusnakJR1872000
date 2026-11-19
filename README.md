@@ -128,15 +128,15 @@
 
 <table>
   <tr>
-    <td width="80"><img src="./iitbombay.png" height="70" width="70"/></td>
+    <td width="80"><img src="./iitbombay.png" height="100" width="100"/></td>
     <td><b>IIT Bombay</b><br/>PG in AI & Data Science · Dec 2025</td>
   </tr>
   <tr>
-    <td width="80"><img src="./uis.png" height="70" width="70"/></td>
+    <td width="80"><img src="./uis.png" height="100" width="100"/></td>
     <td><b>University of Illinois Springfield</b><br/>MS Computer Science · Dec 2023</td>
   </tr>
   <tr>
-    <td width="80"><img src="./mu.png" height="70" width="70"/></td>
+    <td width="80"><img src="./mu.png" height="100" width="100"/></td>
     <td><b>University of Mumbai</b><br/>BE Computer Science · May 2022</td>
   </tr>
 </table>
