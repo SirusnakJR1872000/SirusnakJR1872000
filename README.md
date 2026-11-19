@@ -126,20 +126,7 @@
 
 ## 🎓 Education
 
-<table>
-  <tr>
-    <td width="130" align="center"><img src="./iitbombay.png" height="120" width="120"/></td>
-    <td><b>IIT Bombay</b><br/>PG in AI & Data Science · Dec 2025</td>
-  </tr>
-  <tr>
-    <td width="130" align="center"><img src="./uis.png" height="120" width="120"/></td>
-    <td><b>University of Illinois Springfield</b><br/>MS Computer Science · Dec 2023</td>
-  </tr>
-  <tr>
-    <td width="130" align="center"><img src="./mu.png" height="120" width="120"/></td>
-    <td><b>University of Mumbai</b><br/>BE Computer Science · May 2022</td>
-  </tr>
-</table>
+![Education](./education.svg)
 
 ---
 
