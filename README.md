@@ -130,7 +130,7 @@
 
 <table>
   <tr>
-    <td width="55"><img src="./iitb.png" height="45"/></td>
+    <td width="55"><img src="./iitbombay.png" height="45"/></td>
     <td><b>IIT Bombay</b><br/>PG in AI & Data Science · Dec 2025</td>
   </tr>
   <tr>
