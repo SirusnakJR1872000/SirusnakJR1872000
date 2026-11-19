@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Gaurav Patil — AI/ML Engineer</title>
+<desc id="desc">Cream and olive profile banner for Gaurav Patil, AI/ML Engineer specialising in Generative AI, machine learning and MLOps.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#172018"/><stop offset=".58" stop-color="#26351f"/><stop offset="1" stop-color="#101712"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d8dfaa"/><stop offset="1" stop-color="#87995b"/></linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#f4efdf" stop-opacity=".08"/><stop offset="1" stop-color="#f4efdf" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1200" height="330" rx="22" fill="url(#bg)"/>
+<path d="M0 260 C190 180 260 355 455 255 S740 150 900 230 S1080 330 1200 220" fill="none" stroke="#aab77a" stroke-opacity=".20" stroke-width="1.5"/>
+<path d="M0 280 C190 200 260 375 455 275 S740 170 900 250 S1080 350 1200 240" fill="none" stroke="#aab77a" stroke-opacity=".14" stroke-width="1.2"/>
+<path d="M720 0 C810 100 930 90 1020 0" fill="none" stroke="#d7dfad" stroke-opacity=".12" stroke-width="1.4"/>
+<path d="M770 0 C860 100 980 90 1070 0" fill="none" stroke="#d7dfad" stroke-opacity=".10" stroke-width="1.4"/>
+<rect x="30" y="28" width="7" height="270" rx="3.5" fill="url(#accent)"/>
+<text x="70" y="78" fill="#d4dda9" font-family="Georgia,serif" font-size="25" font-style="italic">Hello, I'm</text>
+<text x="68" y="145" fill="#f6f1e5" font-family="Georgia,serif" font-size="66" font-weight="bold">Gaurav Patil</text>
+<text x="72" y="188" fill="#d9e0c0" font-family="Arial,Helvetica,sans-serif" font-size="21" letter-spacing=".5">AI/ML ENGINEER  ·  GENERATIVE AI  ·  MACHINE LEARNING  ·  MLOps</text>
+<text x="72" y="229" fill="#e7e4d8" font-family="Arial,Helvetica,sans-serif" font-size="19">Building production-ready AI systems — from RAG pipelines to distributed workflows.</text>
+<g font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="bold">
+  <rect x="72" y="258" width="142" height="42" rx="21" fill="#dce4b5"/><text x="143" y="285" text-anchor="middle" fill="#1c2819">LINKEDIN ↗</text>
+  <rect x="226" y="258" width="126" height="42" rx="21" fill="none" stroke="#aab77a" stroke-width="1.5"/><text x="289" y="285" text-anchor="middle" fill="#f4efdf">EMAIL ↗</text>
+  <rect x="364" y="258" width="122" height="42" rx="21" fill="none" stroke="#aab77a" stroke-width="1.5"/><text x="425" y="285" text-anchor="middle" fill="#f4efdf">GITHUB ↗</text>
+</g>
+<g transform="translate(930 55)">
+  <circle cx="110" cy="105" r="91" fill="#dfe5c2" fill-opacity=".06" stroke="#aebd7b" stroke-width="1.5"/>
+  <circle cx="110" cy="105" r="74" fill="none" stroke="#d9e2b1" stroke-opacity=".45" stroke-dasharray="3 8" stroke-width="1.5"/>
+  <path d="M70 105 L95 80 L120 105 L145 80 M95 80 L95 130 L145 130" fill="none" stroke="#bdca8d" stroke-width="2" stroke-linecap="round" opacity=".75"/>
+  <circle cx="70" cy="105" r="5" fill="#dce4b5"/><circle cx="95" cy="80" r="5" fill="#dce4b5"/><circle cx="120" cy="105" r="5" fill="#dce4b5"/><circle cx="145" cy="80" r="5" fill="#dce4b5"/><circle cx="95" cy="130" r="5" fill="#dce4b5"/><circle cx="145" cy="130" r="5" fill="#dce4b5"/>
+  <text x="110" y="220" fill="#d4dda9" font-family="Georgia,serif" font-size="16" text-anchor="middle" font-style="italic">Build · Learn · Improve</text>
+</g>
+</svg>

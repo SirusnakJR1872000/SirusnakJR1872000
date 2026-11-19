@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title">
+<title id="title">What I Build</title>
+<rect width="1200" height="260" rx="20" fill="#172019"/>
+<text x="34" y="48" fill="#f2eedf" font-family="Georgia,serif" font-size="30" font-weight="bold">What I Build</text>
+<text x="1165" y="46" fill="#aebd7b" font-family="Arial,sans-serif" font-size="14" text-anchor="end" letter-spacing="2">FOUR ENGINEERING DOMAINS</text>
+<g transform="translate(30 76)">
+  <rect width="276" height="150" rx="16" fill="#222e23" stroke="#66764a"/>
+  <circle cx="48" cy="48" r="25" fill="#dce4b5" fill-opacity=".13" stroke="#aebd7b"/>
+  <path d="M39 48 Q48 32 57 48 Q48 64 39 48 M48 34 V62 M34 42 H62 M34 54 H62" fill="none" stroke="#dce4b5" stroke-width="2" stroke-linecap="round"/>
+  <text x="86" y="45" fill="#f4efdf" font-family="Arial,sans-serif" font-size="20" font-weight="bold">Generative AI</text>
+  <text x="86" y="70" fill="#f4efdf" font-family="Arial,sans-serif" font-size="20" font-weight="bold">&amp; RAG</text>
+  <text x="22" y="112" fill="#c4cbb0" font-family="Arial,sans-serif" font-size="15">LLMs · retrieval · agentic workflows</text>
+  <text x="22" y="134" fill="#c4cbb0" font-family="Arial,sans-serif" font-size="15">MCP integrations</text>
+</g>
+<g transform="translate(324 76)">
+  <rect width="276" height="150" rx="16" fill="#222e23" stroke="#66764a"/>
+  <circle cx="48" cy="48" r="25" fill="#dce4b5" fill-opacity=".13" stroke="#aebd7b"/>
+  <path d="M33 59 V47 H43 V59 M47 59 V37 H57 V59 M61 59 V29 H69 V59" fill="none" stroke="#dce4b5" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="86" y="45" fill="#f4efdf" font-family="Arial,sans-serif" font-size="20" font-weight="bold">Predictive</text>
+  <text x="86" y="70" fill="#f4efdf" font-family="Arial,sans-serif" font-size="20" font-weight="bold">Analytics</text>
+  <text x="22" y="112" fill="#c4cbb0" font-family="Arial,sans-serif" font-size="15">Churn · propensity · recommendations</text>
+  <text x="22" y="134" fill="#c4cbb0" font-family="Arial,sans-serif" font-size="15">Causal uplift modelling</text>
+</g>
+<g transform="translate(618 76)">
+  <rect width="276" height="150" rx="16" fill="#222e23" stroke="#66764a"/>
+  <circle cx="48" cy="48" r="25" fill="#dce4b5" fill-opacity=".13" stroke="#aebd7b"/>
+  <path d="M30 48 Q48 25 66 48 Q48 71 30 48Z" fill="none" stroke="#dce4b5" stroke-width="2.5"/><circle cx="48" cy="48" r="7" fill="none" stroke="#dce4b5" stroke-width="2.5"/>
+  <text x="86" y="45" fill="#f4efdf" font-family="Arial,sans-serif" font-size="20" font-weight="bold">Computer</text>
+  <text x="86" y="70" fill="#f4efdf" font-family="Arial,sans-serif" font-size="20" font-weight="bold">Vision</text>
+  <text x="22" y="112" fill="#c4cbb0" font-family="Arial,sans-serif" font-size="15">Detection · classification</text>
+  <text x="22" y="134" fill="#c4cbb0" font-family="Arial,sans-serif" font-size="15">Real-time inference</text>
+</g>
+<g transform="translate(912 76)">
+  <rect width="258" height="150" rx="16" fill="#222e23" stroke="#66764a"/>
+  <circle cx="48" cy="48" r="25" fill="#dce4b5" fill-opacity=".13" stroke="#aebd7b"/>
+  <path d="M48 28 L65 38 V58 L48 68 L31 58 V38Z M48 28 V48 M31 38 L48 48 L65 38 M48 48 V68" fill="none" stroke="#dce4b5" stroke-width="2"/>
+  <text x="86" y="45" fill="#f4efdf" font-family="Arial,sans-serif" font-size="20" font-weight="bold">AI Systems</text>
+  <text x="86" y="70" fill="#f4efdf" font-family="Arial,sans-serif" font-size="20" font-weight="bold">&amp; MLOps</text>
+  <text x="22" y="112" fill="#c4cbb0" font-family="Arial,sans-serif" font-size="15">Distributed services · CI/CD</text>
+  <text x="22" y="134" fill="#c4cbb0" font-family="Arial,sans-serif" font-size="15">Reliable production pipelines</text>
+</g>
+</svg>

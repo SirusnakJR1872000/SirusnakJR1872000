@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title">
+<title id="title">Currently Exploring and Let's Connect</title>
+<rect width="1200" height="210" rx="20" fill="#172019"/>
+<path d="M0 25 C180 90 270 -10 450 45 S760 100 930 30 S1100 0 1200 35" fill="none" stroke="#aebd7b" stroke-opacity=".25" stroke-width="1.5"/>
+<text x="38" y="75" fill="#dce4b5" font-family="Georgia,serif" font-size="27" font-weight="bold">Currently Exploring</text>
+<text x="38" y="106" fill="#c4cbb0" font-family="Arial,sans-serif" font-size="15">Ideas and technologies I'm actively learning and building with.</text>
+<g font-family="Arial,sans-serif" font-size="15">
+  <rect x="38" y="130" width="132" height="42" rx="21" fill="#2a3827" stroke="#87995b"/><text x="104" y="156" text-anchor="middle" fill="#f4efdf">Agentic AI</text>
+  <rect x="182" y="130" width="198" height="42" rx="21" fill="#2a3827" stroke="#87995b"/><text x="281" y="156" text-anchor="middle" fill="#f4efdf">Distributed AI &amp; MCP</text>
+  <rect x="392" y="130" width="150" height="42" rx="21" fill="#2a3827" stroke="#87995b"/><text x="467" y="156" text-anchor="middle" fill="#f4efdf">Production RAG</text>
+  <rect x="554" y="130" width="135" height="42" rx="21" fill="#2a3827" stroke="#87995b"/><text x="621" y="156" text-anchor="middle" fill="#f4efdf">Clinical NLP</text>
+</g>
+<path d="M735 55 V175" stroke="#66764a" stroke-width="1.5"/>
+<text x="785" y="83" fill="#f4efdf" font-family="Georgia,serif" font-size="28" font-weight="bold">Let's Connect</text>
+<text x="785" y="112" fill="#c4cbb0" font-family="Arial,sans-serif" font-size="15">Have an interesting AI problem or idea?</text>
+<g transform="translate(790 135)" font-family="Arial,sans-serif" font-size="14" font-weight="bold">
+  <rect width="112" height="40" rx="20" fill="#dce4b5"/><text x="56" y="26" text-anchor="middle" fill="#1c2819">LINKEDIN ↗</text>
+  <rect x="124" width="104" height="40" rx="20" fill="none" stroke="#aebd7b"/><text x="176" y="26" text-anchor="middle" fill="#f4efdf">EMAIL ↗</text>
+  <rect x="240" width="102" height="40" rx="20" fill="none" stroke="#aebd7b"/><text x="291" y="26" text-anchor="middle" fill="#f4efdf">GITHUB ↗</text>
+</g>
+</svg>
