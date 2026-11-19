@@ -1,129 +1,90 @@
-<!-- ═══════════════════════════════════════════════════════════
-     BANNER  →  create banner.svg (or banner.png) in Canva
-     ═══════════════════════════════════════════════════════════ -->
+<h1 align="center">Hey, I'm Gaurav Patil 👋</h1>
+
 <p align="center">
-  <img src="./banner.svg" alt="Gaurav Patil — AI/ML Engineer" width="100%"/>
+  <b>AI/ML Engineer · Generative AI · MLOps · Mumbai, India</b><br/>
+  Building production-ready AI systems — from RAG pipelines to multi-agent workflows
 </p>
 
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gaurav-patil-403663280/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gmsd187@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SirusnakJR1872000">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-<!-- ═══════════════════════════════════════════════════════════
-     ABOUT ME  +  WHAT I BUILD
-     ═══════════════════════════════════════════════════════════ -->
-<table width="100%">
-<tr>
-<td width="52%" valign="top">
+---
 
-### 👤 About Me
+## 🚀 What I Build
 
-I build intelligent systems that bridge the gap between machine learning research and real-world applications.
+- **Agentic AI & LLMs** — RAG pipelines, multi-agent workflows, MCP server integrations
+- **Applied ML** — churn prediction, next-best-product, causal uplift modelling
+- **Clinical AI** — patient summarisation, medication safety guardrails, deterministic validation
+- **MLOps** — CI/CD for ML, SageMaker deployments, inference optimisation
 
-With expertise in **Generative AI, Computer Vision** and **Distributed AI Systems**, I enjoy designing and deploying scalable solutions that solve complex business and engineering problems.
+---
 
-My work spans predictive modelling, customer intelligence, hybrid RAG architectures, clinical AI, multi-agent workflows and scalable ML infrastructure.
-
-</td>
-<td width="48%" valign="top">
-<img src="./what_i_build.svg" alt="What I Build" width="100%"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════
-     TECH STACK  +  ENGINEERING IMPACT
-     ═══════════════════════════════════════════════════════════ -->
-<table width="100%">
-<tr>
-<td width="52%" valign="top">
-
-### </> Tech Stack
+## 🛠️ Tech Stack
 
 **ML & AI**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189C6E?style=flat-square&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189C6E?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-0066CC?style=flat)
 
 **Cloud & MLOps**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0066CC?style=flat-square&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-</td>
-<td width="48%" valign="top">
-<img src="./engineering_impact.svg" alt="Engineering Impact" width="100%"/>
-</td>
-</tr>
-</table>
+**Data**
 
-<br/>
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-<!-- ═══════════════════════════════════════════════════════════
-     EXPERIENCE  +  EDUCATION
-     ═══════════════════════════════════════════════════════════ -->
-<table width="100%">
-<tr>
-<td width="52%" valign="top">
+---
 
-### 💼 Experience
+## 📊 Engineering Impact
 
-🟢 **Comsense Technologies** &nbsp; `Dec 2025 – Present`
-<br/>GenAI Specialist · Building enterprise AI solutions
+![Engineering Impact](./engineering_impact.svg)
 
-🟡 **Breathing.ai** &nbsp; `Feb 2024 – Dec 2024`
-<br/>ML Engineer · Computer vision & model optimisation
+## 💼 Experience
 
-🔵 **University of Illinois Springfield** &nbsp; `Dec 2023`
-<br/>ML Research · Data Science & Analytics
+**ML Engineer – GenAI Specialist · Comsense Technologies** *(Dec 2025 – Present)*  
+Building enterprise AI: customer intelligence pipelines, hybrid RAG, clinical AI guardrails, FastMCP server for model-agnostic LLM orchestration.
 
-</td>
-<td width="48%" valign="top">
+**ML Engineer · Breathing.ai** *(Feb 2024 – Dec 2024)*  
+Computer vision for real-time posture correction; CI/CD via AWS Lambda + SageMaker; XGBoost model optimisation.
 
-### 🎓 Education
+---
 
-🟢 **IIT Bombay**
-<br/>PG in AI & Data Science · Dec 2025
+## 🎓 Education
 
-🟡 **University of Illinois Springfield**
-<br/>MS Computer Science · Dec 2023
+- **IIT Bombay** — PG in AI & Data Science *(Dec 2025)*
+- **University of Illinois Springfield** — MS Computer Science *(Dec 2023)*
+- **University of Mumbai** — BE Computer Science *(May 2022)*
 
-🔵 **University of Mumbai**
-<br/>BE Computer Science · May 2022
+---
 
-</td>
-</tr>
-</table>
 
-<br/>
 
-<!-- ═══════════════════════════════════════════════════════════
-     GITHUB STATS
-     ═══════════════════════════════════════════════════════════ -->
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SirusnakJR1872000&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=1D9E75&icon_color=1D9E75" width="100%"/>
-</td>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirusnakJR1872000&layout=compact&theme=default&hide_border=true&title_color=1D9E75" width="100%"/>
-</td>
-</tr>
-</table>
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════
-     FOOTER  →  create footer.svg
-     ═══════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="./footer.svg" alt="Currently Exploring + Connect" width="100%"/>
-</p>
+## 🌱 Currently Building
+
+Agentic AI systems · Production RAG · Scalable LLM inference · Clinical NLP
+
+---
+
+*Open to AI/ML Engineer roles in Mumbai · DM or email to connect*
